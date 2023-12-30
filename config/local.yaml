@@ -1,0 +1,5 @@
+server:
+  host: "0.0.0.0"
+  port: 8080
+AppName: "post_events"
+WebhokUrl: "https://webhook.site/1e4c8a2f-3f2a-4cca-8431-68252501104b"
